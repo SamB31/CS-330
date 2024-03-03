@@ -4,13 +4,12 @@
 
 ## Designing and Developing the 3D Scene
 
-Starting off, I approach software design like sketching before a full-blown painting. This project was a deep dive into textures and lighting, making my 3D world come alive in ways I hadn't imagined before.
-
+Starting off, I approach software design like sketching before a full-blown painting. This project was a deep dive into OpenGL and how to create a scene with it.
 ### Design Process
 
-- **Imagining the Scene**: It all began with a vision of what I wanted to create. Picking out objects, deciding on lighting effects, and sketching out the plan.
-- **Building Piece by Piece**: I tackled the development by breaking it down - focusing on smaller parts, adjusting based on what looked good, and iterating a ton.
-- **Evolving My Code**: My coding approach got a serious upgrade. Starting simple, I eventually managed to work in some pretty advanced OpenGL features.
+- **Design Process**: It all began with a vision of what I wanted to create. Picking out objects, deciding on lighting effects, and sketching out the plan.
+- **Development Strategies**: I tackled the development by breaking it down - focusing on smaller parts, adjusting based on what looked good, and iterating a ton. This was very easy because of how the week to week structure was.
+- **Evolution of Code Development**: I got a chance to watch as my comfort level grew while coding in OpenGL from week to week. Starting simple, I eventually managed to work in some pretty advanced OpenGL features.
 
 ### Lessons Learned and Looking Forward
 
